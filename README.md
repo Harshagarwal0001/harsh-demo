@@ -1,3 +1,3 @@
 # harsh-demo
-This is my first git Repository
-autor - Harsh agarwal
+This is my first git Repository.
+author - Harsh agarwal
